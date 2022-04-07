@@ -1,4 +1,4 @@
-# Guitar Farming 🥞
+# GUT Farming 🥞
 
 https://guitarswap.finance. Feel free to read the code. More details coming soon.
 
@@ -6,7 +6,7 @@ https://guitarswap.finance. Feel free to read the code. More details coming soon
 
 ### BSCMAINNET
 
-- GuitarToken - https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82
+- GuitarToken - https://bscscan.com/address/0x9637D33b495ad61bdb5f494700fc0FCB8C46bfE7
 - MasterChef - https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E
 - (Uni|Guitar)swapV2Factory - https://bscscan.com/address/0xBCfCcbde45cE874adCB698cC183deBcF17952812
 - (Uni|Guitar)swapV2Router02 - https://bscscan.com/address/0x05fF2B0DB69458A0750badebc4f9e13aDd608C7F
