@@ -9,7 +9,7 @@ contract('CakeToken', ([alice, bob, carol, dev, minter]) => {
 
 
     it('mint', async () => {
-        await this.cake.mintFor(alice, 1000, { from: minter });
-        assert.equal((await this.cake.balanceOf(alice)).toString(), '1000');
+        await this.cake.mintFor(alice, 10000, { from: minter });
+        assert.equal((await this.cake.balanceOf(alice)).toString(), '10000');
     })
 });
